@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TurfSync_Turf_Scheduling___Sports_e_Commerce_System
 {
-    public partial class Form2 : Form
+    public partial class signuppage : Form
     {
-        public Form2()
+        public signuppage()
         {
             InitializeComponent();
         }
