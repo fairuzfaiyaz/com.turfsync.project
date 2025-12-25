@@ -36,7 +36,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::TurfSync_Turf_Scheduling___Sports_e_Commerce_System.Properties.Resources.turfsync_turf_booking_management_system_software;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Location = new System.Drawing.Point(48, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(395, 409);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
