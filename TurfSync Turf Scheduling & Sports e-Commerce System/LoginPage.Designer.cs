@@ -1,6 +1,6 @@
 ﻿namespace TurfSync_Turf_Scheduling___Sports_e_Commerce_System
 {
-    partial class Form1
+    partial class LoginPage
     {
         /// <summary>
         /// Required designer variable.
