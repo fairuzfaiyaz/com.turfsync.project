@@ -17,6 +17,7 @@ namespace TurfSync_Turf_Scheduling___Sports_e_Commerce_System
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LoginPage());
+            Application.Run(new signuppage());
         }
     }
 }
